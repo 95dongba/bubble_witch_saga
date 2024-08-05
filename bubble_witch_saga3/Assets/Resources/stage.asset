@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ddcc3e327ab4c289474d0c962a02b4, type: 3}
+  m_Name: stage
+  m_EditorClassIdentifier: 
+  _conditionData: {fileID: 11400000, guid: 5a8fdcd3fec9f49bfaf8c7f5e9951de0, type: 2}
+  _stageType: 0
+  _ballSpawnType: 1
+  _row: 11
+  _col: 7
+  _remaining_Ball_Count: 22
+  _ballDatas:
+  - _colunmArray:
+    - BallType: 0
+    - BallType: 2
+    - BallType: 2
+    - BallType: 5
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 5
+    - BallType: 2
+    - BallType: 1
+    - BallType: 0
+  - _colunmArray:
+    - BallType: 1
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 1
+    - BallType: 0
+  - _colunmArray:
+    - BallType: 0
+    - BallType: 3
+    - BallType: 2
+    - BallType: 4
+    - BallType: 3
+    - BallType: 0
+    - BallType: 3
+    - BallType: 2
+    - BallType: 3
+    - BallType: 3
+    - BallType: 0
+  - _colunmArray:
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 1
+    - BallType: 1
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+  - _colunmArray:
+    - BallType: 0
+    - BallType: 1
+    - BallType: 2
+    - BallType: 2
+    - BallType: 3
+    - BallType: 0
+    - BallType: 3
+    - BallType: 2
+    - BallType: 4
+    - BallType: 2
+    - BallType: 0
+  - _colunmArray:
+    - BallType: 1
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 3
+    - BallType: 0
+  - _colunmArray:
+    - BallType: 0
+    - BallType: 4
+    - BallType: 2
+    - BallType: 3
+    - BallType: 0
+    - BallType: 0
+    - BallType: 0
+    - BallType: 2
+    - BallType: 3
+    - BallType: 2
+    - BallType: 0
